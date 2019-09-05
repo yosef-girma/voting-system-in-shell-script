@@ -1,0 +1,3 @@
+can2           ele0022       israel felestem                male                        0
+can1            ele0011       yosef girma                    male                        2
+can3 ele0011 yosef girma male 1
